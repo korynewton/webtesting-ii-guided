@@ -1,6 +1,6 @@
 # Web Testing II Guided Project
 
-Guided project for **Web Testing I** module.
+Guided project for **Web Testing II** module.
 
 In this module we will cover the basics of using `jest` to test React applications.
 
